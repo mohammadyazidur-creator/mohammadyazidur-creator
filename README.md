@@ -9,9 +9,8 @@ Building digital solutions through code, creativity, and continuous learning.
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadyazidur-creator&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohammadyazidur-creator&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile Views">
 </p>
-
 
 
 </div>
