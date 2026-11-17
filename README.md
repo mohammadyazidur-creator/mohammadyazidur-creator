@@ -9,7 +9,7 @@ Building digital solutions through code, creativity, and continuous learning.
 
 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mohammadyazidur-creator&color=blueviolet&style=flat-square)](https://portfolio-web7.netlify.app)
+[![Profile Views](https://komarev.com/ghpvc/?username=mohammadyazidur-creator&color=blueviolet&style=flat-square)](https://portofolio-web7.netlify.app/)
 
 
 
