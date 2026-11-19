@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td width="340" valign="top" align="center">
-  <img src="./assets/id-card.svg" alt="Developer ID" width="320" />
+  <img src="id-card.svg" alt="Developer ID" width="320" />
 </td>
 <td valign="top">
 
