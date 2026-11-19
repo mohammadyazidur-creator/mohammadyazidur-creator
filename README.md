@@ -114,7 +114,7 @@ HTML/CSS   █████████░░░  75%   ▸ solid
 ## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
-<img alt="snake" src="https://raw.githubusercontent.com/mohammadyazidur-creator/mohammadyazidur-creator/output/snake.yml" />
+<img alt="snake" src="https://raw.githubusercontent.com/mohammadyazidur-creator/mohammadyazidur-creator/output/github-snake-red.svg" />
 </div>
 
 <br/>
