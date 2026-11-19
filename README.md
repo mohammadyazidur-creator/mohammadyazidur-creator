@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Yazid Rizky" width="100%" />
+<img src="banner.svg" alt="Yazid Rizky" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF2D3D&center=true&vCenter=true&width=640&lines=Turning+ideas+into+working+software;Laravel+apps+%7C+Python+experiments;Every+commit+is+a+small+level+up+%E2%9A%A1" alt="typing" />
