@@ -105,19 +105,13 @@ HTML/CSS   █████████░░░  75%   ▸ solid
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohammadyazidur-creator&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
 
 </div>
 
 <br/>
 
-## 🐍 CONTRIBUTION SNAKE
 
-<div align="center">
-<img alt="snake" src="https://raw.githubusercontent.com/mohammadyazidur-creator/mohammadyazidur-creator/output/github-snake-red.svg" />
-</div>
-
-<br/>
 
 ## 📬 CONNECT
 
